@@ -1,0 +1,94 @@
+# ==========================
+# single action
+# ==========================
+## go (11)
+go to the cutlery drawer
+go to the dresser
+navigate to the fireplace
+navigate to the kitchen
+navigate to the living room
+navigate to the bedroom
+navigate to the stove
+navigate to the corridor
+go to the towel rail
+go to the coffee table
+navigate to the washbasin
+## take (18)
+put the noodles on the bookshelf
+give me the soap
+give me the pasta from the counter
+put the pasta on the night table
+get the cookies to the cabinet
+bring to tracy at the cabinet the tea from the washing machine
+put the milk on the fridge
+bring me the cookies
+give me the noodles
+bring me the water
+give me the noodles
+give to tracy at the kitchen the soap from the towel rail
+grasp the tea from the bookshelf to the washbasin
+bring me the coke
+put the water on the counter
+put the soap on the coffee table
+give me the noodles from the cupboard
+give to jordan at the bidet the coke from the cutlery drawer
+## find (20)
+look for the cookies in the kitchen
+locate the pringles in the dining room
+locate the food in the corridor
+find the pringles in the bedroom
+find the snacks in the bedroom
+find the snacks in the bathroom
+find the drinks in the living room
+find the milk in the corridor
+locate the food in the bedroom
+find the drinks in the dining room
+locate the soap in the bathroom
+locate the drinks in the bathroom
+locate the snacks in the bathroom
+locate the pasta in the bedroom
+find the snacks in the bedroom
+look for the pringles in the kitchen
+look for the coke in the living room
+look for the drinks in the bathroom
+locate the food in the bedroom
+locate the snacks in the bathroom
+## answer (3)
+answer a question to taylor at the sofa
+answer a question to jamie at the toilet
+answer a question to taylor at the coffee table
+## tell (34)
+tell me how many coke there are on the bar
+tell me the name of the person in the living room
+tell me how many water there are on the fireplace
+tell me how many coke there are on the desk
+tell me how many pasta there are on the center table
+tell me the name of the person at the bidet
+tell me how many beer there are on the dresser
+tell me the name of the person at the sofa
+say what day is tomorrow to taylor at the bidet
+tell me how many pasta there are on the wardrobe
+tell me how many pasta there are on the bathroom's cabinet
+tell me the name of the person at the dining table
+say a joke to morgan at the dining table
+say a joke to alex at the bed
+tell me the name of the person at the bidet
+tell your team's country to morgan at the baby chair
+tell me the name of the person at the bidet
+tell me how many noodles there are on the cupboard
+tell me how many water there are on the sideboard
+tell me how many water there are on the coffee table
+tell me the name of the person at the chair
+tell me the name of the person in the bedroom
+tell a joke to robin at the tv coach
+say the day of the week to michael at the armchair
+tell me how many beer there are on the wardrobe
+tell me how many milk there are on the cabinet
+tell me the name of the person in the bedroom
+tell me how many milk there are on the dining table
+tell me how many pasta there are on the bathroom's cabinet
+tell me how many coke there are on the dresser
+tell me the name of the person in the bedroom
+tell me the name of the person at the dining table
+tell me how many noodles there are on the drawer
+tell me the name of the person at the baby chair

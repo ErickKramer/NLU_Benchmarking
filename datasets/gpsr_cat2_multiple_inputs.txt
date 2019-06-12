@@ -1,0 +1,35 @@
+# ==========================
+# multiple actions
+# ==========================
+## 2 actions (10)
+meet tracy at the toilet and come after him
+look for a waving person in the kitchen and say what day is today
+look for a lying person in the bedroom and answer a question
+meet hayden at the dining table and follow him
+meet hayden at the bed and take him to the chair
+meet taylor at the washbasin and escort him to the baby chair
+meet tracy at the bidet and go after him
+meet robin at the desk and guide him to the sofa
+get the pear from the center table and put it on the fireplace
+meet peyton at the cabinet and take him to the toilet
+## 3 actions (20)
+navigate to the shower, meet tracy, and guide him to the desk
+navigate to the chair, meet peyton, and follow her
+navigate to the shower, meet taylor, and come after him
+go to the living room, find a standing person, and answer a question
+navigate to the kitchen, look for a boy, and tell the day of the month
+go to the dining table, look for the apple, and bring it to me
+navigate to the bathtub, meet jordan, and lead him to the dining table
+go to the cabinet, look for the banana, and deliver it to taylor at the tv coach
+navigate to the bed, meet michael, and lead him to the sink
+go to the bathroom's cabinet, look for the pear, and place it on the wardrobe
+navigate to the night table, look for the pear, and put it on the desk
+navigate to the bathtub, meet michael, and follow her
+go to the sofa, meet michael, and follow her
+navigate to the stove, meet morgan, and follow her
+go to the bidet, meet morgan, and follow her
+navigate to the desk, meet robin, and escort her to the desk
+navigate to the counter, locate the banana, and place it on the center table
+go to the kitchen, locate a man, and tell what day is tomorrow
+go to the living room, find a sitting person, and tell your team's affiliation
+go to the bed, meet morgan, and escort him to the shower

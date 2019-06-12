@@ -1,0 +1,81 @@
+# ===============================
+# single action (71)
+# ===============================
+## go(20)
+move to the room 100
+go to the bed
+navigate to the reception
+proceed to the hallway
+go to the hallway
+navigate to the elevator
+proceed to the bathroom
+go to the bed
+move to the red table
+proceed to the main entrance
+go to the emergency room
+move to the green door
+go to the laboratory
+go to the main entrance
+move to the emergency room
+go to the reception
+go to the delivery area
+go to the basement
+move to the ward
+proceed to the reception
+## attach(8)
+attach to the station
+dock to the station
+charge in the station
+connect to the station
+attach to the station a
+dock to the station b
+charge in the station c
+connect to the station d
+## detach(8)
+detach from the station
+undock from the station
+uncharge from the station
+disconnect from the station
+detach from the station a
+undock from the station b
+uncharge from the station c
+disconnect from the station d
+## push(8)
+push the bed
+push the table
+push the red robot
+push the cart from the side
+push the bed from the front
+push the table from behind
+push the box from the right
+push the robot from the left
+## find(10)
+find the bed in the room
+look for the person in the hallway
+find the table in the reception
+look for the document in the floor
+find the elevator
+look for the green door
+locate the box in the laboratory
+locate the station in the basement
+find the desk in the reception
+look for the robot at the entrance
+## guide(7)
+guide the nurse to the corridor
+guide the doctor to the entrance
+guide the red robot to the basement
+guide the red robot from the hallway to the elevator
+lead the guard from the entrance to the reception
+lead the green robot from the reception to the entrance
+lead the person to the delivery area
+## follow(10)
+follow the nurse to the corridor
+follow the doctor to the entrance
+follow the red robot to the basement
+follow the red robot from the hallway to the elevator
+come after the guard from the entrance to the reception
+go after alex from the reception to the bathroom
+come after the green robot from the reception to the entrance
+go after erick from the elevator to the room
+come after the person to the delivery area
+go after argentina from the laboratory to the main entrance

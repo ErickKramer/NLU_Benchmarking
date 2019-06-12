@@ -1,0 +1,35 @@
+# ==========================
+# multiple actions
+# ==========================
+## 2 actions (10)
+meet person tracy destination toilet follow person him
+find person person waving destination kitchen tell sentence what day is today
+find person person lying destination bedroom answer
+meet person hayden destination dining table follow person him
+meet person hayden destination bed guide person him destination chair
+meet person taylor destination washbasin guide person him destination baby chair
+meet person tracy destination bidet follow person him
+meet person robin destination desk guide person him destination sofa
+take object pear source center table take object it destination fireplace
+meet person peyton destination cabinet guide person him destination toilet
+## 3 actions (20)
+go destination shower meet person tracy guide person him destination desk
+go destination chair meet person peyton follow person her
+go destination shower meet person taylor follow person him
+go destination living room find person person standing answer
+go destination kitchen find person boy tell sentence the day of the month
+go destination dining table find object apple take object it person me
+go destination bathtub meet person jordan guide person him destination dining table
+go destination cabinet find object banana take object it person taylor destination tv coach
+go destination bed meet person michael guide person him destination sink
+go destination bathroom's cabinet find object pear take object it destination wardrobe
+go destination night table find object pear take object it destination desk
+go destination bathtub meet person michael follow person her
+go destination sofa meet person michael follow person her
+go destination stove meet person morgan follow person her
+go destination bidet meet person morgan follow person her
+go destination desk meet person robin guide person her destination desk
+go destination counter find object banana take object it destination center table
+go destination kitchen find person man tell sentence what day is tomorrow
+go destination living room find person person sitting tell sentence your team's affiliation
+go destination bed meet person morgan guide person him destination shower

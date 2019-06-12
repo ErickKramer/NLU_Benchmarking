@@ -1,0 +1,94 @@
+# ==========================
+# single action
+# ==========================
+## go (11)
+go destination cutlery drawer
+go destination dresser
+go destination fireplace
+go destination kitchen
+go destination living room
+go destination bedroom
+go destination stove
+go destination corridor
+go destination towel rail
+go destination coffee table
+go destination washbasin
+## take (18)
+take object noodles destination bookshelf
+take person me object soap
+take person me object pasta source counter
+take object pasta destination night table
+take object cookies destination cabinet
+take person tracy destination cabinet object tea source washing machine
+take object milk destination fridge
+take person me object cookies
+take person me object noodles
+take person me object water
+take person me object noodles
+take person tracy destination kitchen object soap source towel rail
+take object tea source bookshelf destination washbasin
+take person me object coke
+take object water destination counter
+take object soap destination coffee table
+take person me object noodles source cupboard
+take person jordan destination bidet object coke source cutlery drawer
+## find (20)
+find object cookies destination kitchen
+find object pringles destination dining room
+find object food destination corridor
+find object pringles destination bedroom
+find object snacks destination bedroom
+find object snacks destination bathroom
+find object drinks destination living room
+find object milk destination corridor
+find object food destination bedroom
+find object drinks destination dining room
+find object soap destination bathroom
+find object drinks destination bathroom
+find object snacks destination bathroom
+find object pasta destination bedroom
+find object snacks destination bedroom
+find object pringles destination kitchen
+find object coke destination living room
+find object drinks destination bathroom
+find object food destination bedroom
+find object snacks destination bathroom
+## answer (3)
+answer person taylor destination sofa
+answer person jamie destination toilet
+answer person taylor destination coffee table
+## tell (34)
+tell person me sentence how many object coke destination bar
+tell person me sentence name of the person destination living room
+tell person me sentence how many object water destination fireplace
+tell person me sentence how many object coke destination desk
+tell person me sentence how many object pasta destination center table
+tell person me sentence name of the person destination bidet
+tell person me sentence how many object beer destination dresser
+tell person me sentence name of the person destination sofa
+tell sentence what day is tomorrow person taylor destination bidet
+tell person me sentence how many object pasta destination wardrobe
+tell person me sentence how many object pasta destination bathroom's cabinet
+tell person me sentence name of the person destination dining table
+tell sentence a joke person morgan destination dining table
+tell sentence a joke person alex destination bed
+tell person me sentence name of the person destination bidet
+tell sentence your team's country person morgan destination baby chair
+tell person me sentence name of the person destination bidet
+tell person me sentence how many object noodles destination cupboard
+tell person me sentence how many object water destination sideboard
+tell person me sentence how many object water destination coffee table
+tell person me sentence name of the person destination chair
+tell person me sentence name of the person destination bedroom
+tell sentence a joke person robin destination tv coach
+tell sentence the day of the week person michael destination armchair
+tell person me sentence how many object beer destination wardrobe
+tell person me sentence how many object milk destination cabinet
+tell person me sentence name of the person destination bedroom
+tell person me sentence how many object milk destination dining table
+tell person me sentence how many object pasta destination bathroom's cabinet
+tell person me sentence how many object coke destination dresser
+tell person me sentence name of the person destination bedroom
+tell person me sentence name of the person destination dining table
+tell person me sentence how many object noodles destination drawer
+tell person me sentence name of the person destination baby chair

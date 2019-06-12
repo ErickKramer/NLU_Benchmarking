@@ -1,0 +1,89 @@
+# ==========================
+# single action
+# ==========================
+## follow (20)
+follow tracy to the corridor
+follow peyton to the corridor
+follow taylor to the dining room
+come after hayden from the stove to the bedroom
+go after robin from the shower to the bathroom
+follow hayden to the dining room
+follow morgan from the sink to the bathroom
+follow michael to the kitchen
+follow tracy to the living room
+follow michael to the bathroom
+follow morgan to the bathroom
+follow jordan from the stove to the kitchen
+follow morgan to the kitchen
+follow robin from the armchair to the bathroom
+go after taylor from the armchair to the kitchen
+go after michael from the chair to the kitchen
+go after michael from the bidet to the bathroom
+go after robin from the cabinet to the kitchen
+go after taylor from the stove to the corridor
+go after alex from the shower to the corridor
+## guide (10)
+guide morgan to the coffee table, you may find him at the shower
+take jamie from the desk to the bidet
+take peyton from the washbasin to the desk
+lead robin from the coffee table to the bidet
+guide michael to the armchair, you will find her at the sofa
+lead morgan from the dining table to the sofa
+guide jordan to the shower, you may find him at the tv coach
+take michael from the desk to the sink
+take tracy to the toilet, you may find her at the coffee table
+guide morgan from the bathtub to the toilet
+## tell (20)
+tell me how many people in the bedroom are standing
+tell me how many people in the living room are sitting
+tell me how many people in the kitchen are standing
+tell me how many people in the dining room are standing
+tell me what's the biggest food on the washing machine
+tell me what time it is
+tell me how many drinks there are on the wardrobe
+tell me how many cutlery there are on the washing machine
+tell me how many toiletries there are on the bar
+tell me how many food there are on the washbasin
+tell me what's the smallest food on the wardrobe
+tell me what's the lightest fruits on the fridge
+tell me what's the lightest snacks on the dishwasher
+tell me the name of the person in the kitchen
+tell me what's the largest object on the dresser
+tell me what's the thinnest object on the bookshelf
+tell me how many people in the dining room are lying
+tell me what's the lightest toiletries on the cupboard
+tell me the pose of the person at the toilet
+tell me how many people in the bedroom are male
+## take (10)
+take the banana from the corridor to the towel rail
+take the peach from the kitchen to the cabinet
+deliver the peach to me
+take the apple to the desk
+put the banana on the sofa
+take the apple from the freezer to the microwave
+give me the banana
+bring me the pear
+get the peach to the drawer
+bring me the peach from the bookshelf
+## find (10)
+find the apple in the bathroom
+locate the snacks in the living room
+look for the cutlery in the corridor
+find the cutlery in the bedroom
+look for the fruits in the bedroom
+look for the peach in the kitchen
+locate the drinks in the bedroom
+locate the fruits in the bathroom
+find the cutlery in the kitchen
+find the food in the corridor
+## meet (10)
+meet hayden at the tv coach
+meet robin at the chair
+meet hayden at the shower
+meet peyton at the baby chair
+meet alex
+meet robin at the coffee table
+meet tracy at the sink
+meet michael at the dining table
+meet michael at the toilet
+meet morgan at the bathtub

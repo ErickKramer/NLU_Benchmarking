@@ -1,0 +1,29 @@
+# ==========================
+# multiple actions
+# ==========================
+## 2 actions (14)
+grasp the noodles from the towel rail and place it on the bookshelf
+grasp the water from the bookshelf and place it on the freezer
+take the noodles from the sideboard and deliver it to morgan at the tv coach
+get the water from the freezer and place it on the dishwasher
+get the water from the cabinet and bring it to me
+get the pasta from the wardrobe and deliver it to jamie at the sink
+pick up the water from the fridge and place it on the cutlery drawer
+look for someone in the kitchen and tell the day of the month
+find a person in the bedroom and answer a question
+locate hayden in the living room and tell your team's country
+locate morgan in the kitchen and say the day of the week
+look for someone in the kitchen and tell the day of the week
+locate a person in the bathroom and answer a question
+find someone in the kitchen and answer a question
+## 3 actions (10)
+go to the living room, look for someone, and answer a question
+go to the fireplace, look for the pringles, and put it on the freezer
+navigate to the kitchen, locate peyton, and answer a question
+navigate to the bathroom, locate someone, and tell the time
+go to the kitchen, look for hayden, and tell the time
+go to the sideboard, locate the noodles, and deliver it to tracy at the desk
+navigate to the kitchen, look for someone, and tell a joke
+navigate to the dining table, locate the beer, and give it to jordan at the bidet
+navigate to the sink, look for the noodles, and give it to me
+navigate to the bathroom, locate jordan, and tell something about yourself

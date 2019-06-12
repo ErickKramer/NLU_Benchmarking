@@ -1,0 +1,31 @@
+# ================================================
+# multiple actions (26 sentences - 58 intentions)
+# ================================================
+# 2 actions(20)
+go destination room 100 find object bed
+go destination bed push object it position side
+go destination reception find object document
+go destination hallway find object door
+go destination door push object it
+go destination entrance guide person alex destination basement
+go destination hallway go destination elevator
+follow object green robot attach object station f
+detach object station guide person nurse destination entrance
+go destination bathroom find object box
+go destination room attach object station
+go destination hallway go destination emergency room
+find object blue robot push object it position behind
+detach object station guide person erick destination elevator
+follow person argentina push object box position behind
+find object green door push object it
+find object station g attach object it
+find object table push object it position side
+go destination reception guide person doctor destination basement
+detach object station  follow person alex
+# 3 actions(6)
+go destination entrance find person nurse guide person her destination room 10
+find person argentina destination hallway follow person her push object box position behind
+go destination main entrance find person doctor guide person him destination elevator
+go destination elevator go destination basement attach object station h
+detach object station go destination door push object it
+detach object station find person alex guide person him destination entrance

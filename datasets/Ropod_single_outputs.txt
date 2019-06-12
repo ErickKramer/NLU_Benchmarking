@@ -1,0 +1,81 @@
+# ===============================
+# single action (71)
+# ===============================
+## go(20)
+go destination room 100
+go destination bed
+go destination reception
+go destination hallway
+go destination hallway
+go destination elevator
+go destination bathroom
+go destination bed
+go destination red table
+go destination main entrance
+go destination emergency room
+go destination green door
+go destination laboratory
+go destination main entrance
+go destination emergency room
+go destination reception
+go destination delivery area
+go destination basement
+go destination ward
+go destination reception
+## attach(8)
+attach object station
+attach object station
+attach object station
+attach object station
+attach object station a
+attach object station b
+attach object station c
+attach object station d
+## detach(8)
+detach object station
+detach object station
+detach object station
+detach object station
+detach object station a
+detach object station b
+detach object station c
+detach object station d
+## push(8)
+push object bed
+push object table
+push object red robot
+push object cart position side
+push object bed position front
+push object table position behind
+push object box position right
+push object robot position left
+## find(10)
+find object bed destination room
+find person person destination hallway
+find object table destination reception
+find object document destination floor
+find object elevator
+find object green door
+find object box destination laboratory
+find object station destination basement
+find object desk destination reception
+find object robot destination entrance
+## guide(7)
+guide person nurse destination corridor
+guide person doctor destination entrance
+guide object red robot destination basement
+guide object red robot source hallway destination elevator
+guide person guard source entrance destination reception
+guide object green robot source reception destination entrance
+guide person person destination delivery area
+## follow(10)
+follow person nurse destination corridor
+follow person doctor destination entrance
+follow object red robot destination basement
+follow object red robot source hallway destination elevator
+follow person guard source entrance destination reception
+follow person alex source reception destination bathroom
+follow object green robot source reception destination entrance
+follow person erick source elevator destination room
+follow person person destination delivery area
+follow person argentina source laboratory destination main entrance

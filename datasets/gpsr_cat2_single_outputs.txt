@@ -1,0 +1,89 @@
+# ==========================
+# single action
+# ==========================
+## follow (20)
+follow person tracy destination corridor
+follow person peyton destination corridor
+follow person taylor destination dining room
+follow person hayden source stove destination bedroom
+follow person robin source shower destination bathroom
+follow person hayden destination dining room
+follow person morgan source sink destination bathroom
+follow person michael destination kitchen
+follow person tracy destination living room
+follow person michael destination bathroom
+follow person morgan destination bathroom
+follow person jordan source stove destination kitchen
+follow person morgan destination kitchen
+follow person robin source armchair destination bathroom
+follow person taylor source armchair destination kitchen
+follow person michael source chair destination kitchen
+follow person michael source bidet destination bathroom
+follow person robin source cabinet destination kitchen
+follow person taylor source stove destination corridor
+follow person alex source shower destination corridor
+## guide (10)
+guide person morgan destination coffee table source shower
+guide person jamie source desk destination bidet
+guide person peyton source washbasin destination desk
+guide person robin source coffee table destination bidet
+guide person michael destination armchair source sofa
+guide person morgan source dining table destination sofa
+guide person jordan destination shower source tv coach
+guide person michael source desk destination sink
+guide person tracy destination toilet source coffee table
+guide person morgan source bathtub destination toilet
+## tell (20)
+tell person me sentence how many person people standing destination bedroom
+tell person me sentence how many person people sitting destination living room
+tell person me sentence how many person people standing destination kitchen
+tell person me sentence how many person people standing destination dining room
+tell person me sentence what's the biggest object food destination washing machine
+tell person me sentence what time it is
+tell person me sentence how many object drinks destination wardrobe
+tell person me sentence how many object cutlery destination washing machine
+tell person me sentence how many object toiletries destination bar
+tell person me sentence how many object food destination washbasin
+tell person me sentence what's the smallest object food destination wardrobe
+tell person me sentence what's the lightest object fruits destination fridge
+tell person me sentence what's the lightest object snacks destination dishwasher
+tell person me sentence name of the person destination kitchen
+tell person me sentence what's the largest object object destination dresser
+tell person me sentence what's the thinnest object object destination bookshelf
+tell person me sentence how many person people lying destination dining room
+tell person me sentence what's the lightest object toiletries destination cupboard
+tell person me sentence pose of the person destination toilet
+tell person me sentence how many person people male destination bedroom
+## take (10)
+take object banana source corridor destination towel rail
+take object peach source kitchen destination cabinet
+take object peach person me
+take object apple destination desk
+take object banana destination sofa
+take object apple source freezer destination microwave
+take person me object banana
+take person me object pear
+take object peach destination drawer
+take person me object peach source bookshelf
+## find (10)
+find object apple destination bathroom
+find object snacks destination living room
+find object cutlery destination corridor
+find object cutlery destination bedroom
+find object fruits destination bedroom
+find object peach destination kitchen
+find object drinks destination bedroom
+find object fruits destination bathroom
+find object cutlery destination kitchen
+find object food destination corridor
+## meet (10)
+meet person hayden destination tv coach
+meet person robin destination chair
+meet person hayden destination shower
+meet person peyton destination baby chair
+meet person alex
+meet person robin destination coffee table
+meet person tracy destination sink
+meet person michael destination dining table
+meet person michael destination toilet
+meet person morgan destination bathtub

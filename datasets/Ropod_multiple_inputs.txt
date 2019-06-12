@@ -1,0 +1,31 @@
+# ================================================
+# multiple actions (26 sentences - 58 intentions)
+# ================================================
+# 2 actions(20)
+move to the room 100 and find the bed
+go to the bed and push it from the side
+navigate to the reception and find a document
+proceed to the hallway and find the door
+move to the door and push it
+go to the entrance and guide alex to the basement
+navigate to the hallway and go to the elevator
+follow the green robot and attach to the station f
+detach from the station and guide the nurse to the entrance
+go to the bathroom and find the box
+go to the room and dock to the station
+move to the hallway and navigate to the emergency room
+find the blue robot and push it from behind
+undock from the station and lead erick to the elevator
+go after argentina and push the box from behind
+find the green door and push it
+locate the station g and connect to it
+find the table and push it from the side
+go to the reception and guide the doctor to the basement
+disconnect from the station and follow alex
+# 3 actions(6)
+go to the entrance, find the nurse and guide her to the room 10
+find argentina in the hallway, follow her and push the box from behind
+proceed to the main entrance, find the doctor and guide him to the elevator
+go to the elevator, go to the basement and attach to the station h
+disconnect from the station, go to the door and push it
+disconnect from the station, find alex and guide him to the entrance
