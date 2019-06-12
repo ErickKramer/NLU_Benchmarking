@@ -1,2 +1,0 @@
-model_checkpoint_path: "slots_2.ckpt"
-all_model_checkpoint_paths: "slots_2.ckpt"
