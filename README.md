@@ -8,7 +8,7 @@ This repository contains the code, datasets, and suplemental materials for "Tell
 * ECG  - [Repository](https://github.com/icsi-berkeley/ecg_framework_code)
 
 ## Repository structure
-* code/
+* code/ [Download](https://www.dropbox.com/s/fqogaovpzyl5gdi/code.zip?dl=0)
     - ecg_framework_code
         - Required repository for ECG
     - ecg_grammars
@@ -16,21 +16,21 @@ This repository contains the code, datasets, and suplemental materials for "Tell
     - ecg_robot_code
         - Modified version of the original implementation to extract the semantic specifications
     - ecg_workbench_release
-        - Repository containing the tool used to generated ECG grammar files 
+        - Repository containing the tool used to generated ECG grammar files
     - lu4r
         - Empty folder
     - rasa_models
         - Folder containing the nlu models and scripts to generate the training datasets
-
 * datasets/
     - GPSR category 1 (Single and multiple actions)
     - GPSR category 2 (Single and multiple actions)
     - [ROPOD](https://cordis.europa.eu/project/rcn/206247/en)
 * paper.pdf - **PENDING**
-* R&D Report
-    - Detailed information about the related work presented in the paper.
-    - Detailed guideline about the models selected (how the work, how to train/adapt them, and how to use them).
-    - Explicit description of the process followed during the benchmarking.
+* docs
+    * RnD Report
+        - Detailed information about the related work presented in the paper.
+        - Detailed guideline about the models selected (how the work, how to train/adapt them, and how to use them).
+        - Explicit description of the process followed during the benchmarking.
 
 ## Notes:
 * Pending to add link to the published version of the paper.     
