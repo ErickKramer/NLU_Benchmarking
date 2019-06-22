@@ -38,5 +38,7 @@ This repository contains the code, datasets, and suplemental materials for "Tell
 * Pending to add link to the published version of the paper.
 * Due to space limitations, the code can be downloaded from [here](https://www.dropbox.com/s/fqogaovpzyl5gdi/code.zip?dl=0)     
 
+## Demo:
+* Navigation Commands using Mbot - [Video](https://youtu.be/t_eZJg2RelM)
 ## Author
 Erick Romero Kramer - [email](erickkramer@gmail.com) - [University email](erick.romero@smail.inf.h-brs.de)
